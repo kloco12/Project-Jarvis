@@ -1,3 +1,7 @@
+To See Where im up to Click Here:
+https://trello.com/b/rcxsGWEk/jarvis-work
+
+
 How to install the files:
 
 Go to https://www.python.org/downloads/
